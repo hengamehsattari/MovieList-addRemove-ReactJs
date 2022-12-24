@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "id": 4,
+      "title": "نوت بوک",
+      "director": "آنیل پولین",
+      "genre": "رمانتیک",
+      "year": "1397/2018",
+      "explanation": "این یک فیلم عالی رمانتیک است"
+    },
+    {
+      "title": "دکتر خوب",
+      "genre": "درام",
+      "explanation": "این یک فیلم درام در 4 فصل می باشد.",
+      "director": "آلیس بروان",
+      "year": "1401/2022",
+      "id": 5
+    },
+    {
+      "title": "bnfgcb",
+      "genre": "وحشت/هیجانی",
+      "explanation": "fhgdrgf",
+      "director": "xvgx",
+      "year": "1962",
+      "id": 6
+    },
+    {
+      "title": "wede",
+      "genre": "وحشت/هیجانی",
+      "explanation": "qwedqwedqwd",
+      "director": "wqed",
+      "year": "cfd",
+      "id": 9
+    }
+  ]
+}
